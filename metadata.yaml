@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25539'
     url: http://www.gutenberg.org/2009/agents/25539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22781#32-Caliber
 gutenberg_issued: '2007-09-27'
 gutenberg_type: Text
 identifiers:
