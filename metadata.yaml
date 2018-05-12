@@ -1,0 +1,26 @@
+_repo: 32-Caliber_22781
+_version: 0.1.0
+alternative_title: Thirty-two caliber
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McGibeny, Donald
+    gutenberg_agent_id: '25539'
+    url: http://www.gutenberg.org/2009/agents/25539
+description: ''
+gutenberg_issued: '2007-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22781'
+  lccn: '20018770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: 32 Caliber
+url: http://www.gutenberg.org/ebooks/22781
